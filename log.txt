@@ -1,0 +1,7 @@
+composer.lock|/Users/rabelo/www/teste/composer.lock|http://s3.localhost.localstack.cloud:4566/tag/teste/composer.lock
+index.html|/Users/rabelo/www/teste/index.html|http://s3.localhost.localstack.cloud:4566/tag/teste/index.html
+.DS_Store|/Users/rabelo/www/teste/.DS_Store|http://s3.localhost.localstack.cloud:4566/tag/teste/.DS_Store
+composer.lock|/Users/rabelo/www/teste/subpasta/composer.lock|http://s3.localhost.localstack.cloud:4566/tag/teste/subpasta/composer.lock
+index.html|/Users/rabelo/www/teste/subpasta/index.html|http://s3.localhost.localstack.cloud:4566/tag/teste/subpasta/index.html
+composer.json|/Users/rabelo/www/teste/subpasta/composer.json|http://s3.localhost.localstack.cloud:4566/tag/teste/subpasta/composer.json
+composer.json|/Users/rabelo/www/teste/composer.json|http://s3.localhost.localstack.cloud:4566/tag/teste/composer.json
